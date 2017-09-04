@@ -650,3 +650,8 @@ ul.social-buttons {
   .btn-xl .badge {
     color: #004466;
     background-color: white; }
+
+.team-image-row {
+  text-align: center;
+  background-color: red;
+  margin-bottom: 65px; }
