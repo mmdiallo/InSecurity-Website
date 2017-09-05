@@ -49,4 +49,10 @@ section#contact {
   .text-danger {
     color: $theme-danger;
   }
+
+  .btn{
+    // background-color: transparent;
+    // border-width: 5px;
+    border-radius: 10px;
+  }
 }
