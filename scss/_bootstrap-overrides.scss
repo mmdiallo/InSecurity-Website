@@ -17,9 +17,3 @@
   @include button-variant(white, $theme-primary, $theme-primary);
   @include heading-font;
 }
-
-.team-image-row{
-  text-align: center;
-  background-color: red;
-  margin-bottom: 65px;
-}
