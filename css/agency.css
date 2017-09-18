@@ -478,7 +478,7 @@ header.masthead {
   .team-member img {
     width: 150px;
     height: 150px;
-    border: 7px solid white; }
+    border: 7px solid #4477b2; }
   .team-member h4 {
     margin-top: 25px;
     margin-bottom: 0;
@@ -491,11 +491,12 @@ header.masthead {
   margin-bottom: 65px; }
 
 .group-team-image {
-  width: 70vw;
-  height: 55vh;
+  width: 700px;
+  height: 400px;
   margin: 0 auto;
   display: block;
-  border-radius: .25rem; }
+  border: 7px solid  #4477b2;
+  border-radius: 10px; }
 
 section#contact {
   background-color: #222222;
